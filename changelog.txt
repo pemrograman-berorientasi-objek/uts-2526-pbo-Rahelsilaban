@@ -1,0 +1,4 @@
+kode error
+kesalahan pada pembuatan class
+lupa membuat ;
+kurang melengkapi huruf
